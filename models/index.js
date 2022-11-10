@@ -1,0 +1,1 @@
+// post belongs to one user; post will have many comments; comment will have one user
