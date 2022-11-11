@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Coding is fun!",
+        "Content": "I love coding!!",
+        "username": "Samantha",
+        "post_date": "Oct 01, 2020"
+    },
+    {
+        "title": "Bootstrap vs. Bulma",
+        "Content": "Bulma is easier to use but doesn't have as many options and colors.",
+        "username": "Susan",
+        "post_date": "Apr 14, 2021"
+    },
+    {
+        "title": "Back-End vs Front-End",
+        "Content": "I prefer Back-End coding.",
+        "username": "Victor",
+        "post_date": "Jul 25, 2021"
+    },
+    {
+        "title": "Wireframing with Figma",
+        "Content": "No thanks, I'll stick with a pad and a pencil!",
+        "username": "Harold",
+        "post_date": "Aug 09, 2021 "
+    },
+    {
+        "title": "DBeaver",
+        "Content": "SQL is hard enough to work with...does DBeaver have to be so tempermental?!",
+        "username": "Paul",
+        "post_date": "Dec 07, 2021"
+    }
+]
